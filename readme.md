@@ -101,5 +101,5 @@ The dashboard is built using the following datasets:
 ---
 
 ## How to Use
-Open the .pbix file in Power BI Desktop
-Load datasets if required
+- Open the .pbix file in Power BI Desktop
+- Load datasets if required
