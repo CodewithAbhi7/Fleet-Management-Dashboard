@@ -55,12 +55,14 @@ Actionable recommendations like:
 - Customer retention strategies
 ---
 
-<img width="1592" height="895" alt="Screenshot 2026-05-01 180001" src="https://github.com/user-attachments/assets/5ad8b877-267a-4e9d-bfbe-ff0305007e7c" />
----
+<img width="1410" height="789" alt="Screenshot 2026-05-04 190158" src="https://github.com/user-attachments/assets/d5b38c70-adb2-491a-b18a-31fbafbff0d7" />
+
+
 <img width="1416" height="795" alt="Screenshot 2026-05-01 174838" src="https://github.com/user-attachments/assets/96475e07-6583-4bdc-b867-07beb6675a65" />
----
+
+
 <img width="1412" height="801" alt="Screenshot 2026-05-01 174916" src="https://github.com/user-attachments/assets/179fa51c-654c-4390-b877-2eb4f536fd86" />
----
+
 
 ## Dataset Used
 
